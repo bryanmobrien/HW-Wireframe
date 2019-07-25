@@ -18,3 +18,48 @@
 3. The width of the section should be:
    * section: 495px
 */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+}
+
+header {
+    background: #ebebeb
+}
+
+article {
+    color: #ebebeb;
+    background: #777;
+}
+
+h1 {
+        color: #777;
+        background: #ebebeb;
+        position: relative;
+}
+h2 {
+        color: #777;
+        background: #ebebeb;
+        position: relative;
+}
+h3 {
+        color: #777;
+        background: #ebebeb;
+        position: relative;
+}
+p {
+    color: #777;
+    background: #ebebeb;
+}
+
+section {
+    width: 495px;
+}
+
+footer {
+
+}
